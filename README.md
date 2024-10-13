@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @XuanhaoZhao
-- 👀 I’m interested in computer system and machine learning.
-- 🌱 I’m currently learning operating system and network.
+- 👀 I’m interested in Front Page development and Game Development.
+- 🌱 I’m currently searching for Job opportunities.
 - 💞️ I’m looking for an intership in a company or a lab.
 - 📫 You can visit my [personal page](https://xuanhaozhao.github.io/) or send e-mails to me.
 
